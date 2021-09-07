@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/DELL/Desktop/StepIn-Student_Record_Management_System/3_Implementation'
+gcc -I inc main.c src/add.c src/modify.c src/view.c src/search.c src/delete.c src/gotoxy.c -o a.exe
+make: Leaving directory '/cygdrive/c/Users/DELL/Desktop/StepIn-Student_Record_Management_System/3_Implementation'
+ 
