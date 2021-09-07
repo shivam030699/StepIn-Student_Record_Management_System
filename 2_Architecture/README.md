@@ -22,6 +22,9 @@ Structure diagrams depict the static structure of the elements in your system. i
 # DATA FLOW DIAGRAM(low level)
 ![struct(DFD)](https://user-images.githubusercontent.com/89725420/132332066-6352d3d1-6018-4c1b-beb9-cc161e507dac.PNG)
 
+# NOTE ( DIFFERENCE BETWEEN STRUCTURAL AND BEHAVIORAL DIAGRAMS)
+Behavioural diagrams, such as use case diagrams,or sequence diagrams, show how the system works ‘in motion’, that is how the system interacts with external entities and users, how it responds to input and what constraints it operates under. Hope this helps. Cheers! Structural diagrams show the things that are in the system being modeled.
+
 
 
 
