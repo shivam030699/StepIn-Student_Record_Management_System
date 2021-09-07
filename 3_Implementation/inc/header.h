@@ -1,9 +1,9 @@
 /**
  * @file hearder.h
- * @author vinayak (vvkatigar1999@gmail.com)
+ * @author shivam (shivam030699@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-04-16
+ * @date 2021-09-07
  * 
  * @copyright Copyright (c) 2021
  * 
